@@ -11,7 +11,7 @@ namespace test_git_vs
         static void Main(string[] args)
         {
             Console.WriteLine("");
-            
+            Console.WriteLine("");
         }
     }
 }
