@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace test_git_vs
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("");
+            
         }
     }
 }
